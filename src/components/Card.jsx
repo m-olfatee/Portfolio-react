@@ -6,13 +6,13 @@ const Card = (props) => {
             <div className="flip-card">
                 <div className="flip-card__container">
                     <div className="card-front">
-                        <div className="card-front__tp card-front__tp--city">
+                        <div className="card-front__tp">
                             <h2 className="card-front__heading">
                                 {props.name}
                             </h2>
                         </div>
                         <div className="card-front__bt">
-                            <p className="card-front__text-view card-front__text-view--city">
+                            <p className="card-front__text-view">
                                 View more
                             </p>
                         </div>
@@ -24,13 +24,13 @@ const Card = (props) => {
             </div>
             <div className="inside-page">
                 <div className="inside-page__container">
-                    <h3 className="inside-page__heading inside-page__heading--city">
+                    <h3 className="inside-page__heading">
                         {props.title}
                     </h3>
                     <p className="inside-page__text">
                         {props.text}
                     </p>
-                    <a href={props.link} className="inside-page__btn inside-page__btn--city" target="_blank" rel="noreferrer">Visit Site</a>
+                    <a href={props.link} className="inside-page__btn" target="_blank" rel="noreferrer">Visit Site</a>
                 </div>
             </div>
         </div>
