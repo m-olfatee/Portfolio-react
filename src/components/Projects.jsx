@@ -10,6 +10,9 @@ import Roma from "../assets/img/Roma.png"
 import Poke from "../assets/img/Poke-Dex.png"
 import Chuck from "../assets/img/Chuck.png"
 import Fake from "../assets/img/Fake.png"
+import HH from "../assets/img/HH.png"
+import Designer from "../assets/img/Designer.png"
+
 
 const Projects = () => {
     return (
@@ -75,6 +78,18 @@ const Projects = () => {
                     text="Rebuild of Roma movie landing page"
                     link="https://m-olfatee.github.io/Roma/"
                     img={Roma}
+                />
+                <Project name="H&H"
+                    title="Simple landing page"
+                    text="Simple landing page with different design. "
+                    link="https://m-olfatee.github.io/H-H/"
+                    img={HH}
+                />
+                <Project name="Designer Challenge"
+                    title="Simple landing page"
+                    text="Simple landing page with different design. "
+                    link="https://m-olfatee.github.io/Designer-Challenge/"
+                    img={Designer}
                 />
             </section>
         </article>
