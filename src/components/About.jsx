@@ -4,22 +4,20 @@ const About = () => {
     return (
         <article className="about" id="about">
             <h2>About me</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam possimus, enim expedita quis corrupti
-                libero aperiam, non officiis magni harum eum ratione, debitis explicabo alias magnam esse veritatis modi
-                sunt odio repellat. Et, veniam, sit odio exercitationem consequuntur quam, voluptatum nesciunt ratione
-                quidem asperiores maxime nobis atque. Facere eos cumque, officiis, recusandae voluptates consequatur autem
-                quisquam dolorum a obcaecati excepturi. Beatae tenetur architecto labore natus saepe molestiae laudantium.
-                Aliquam fugiat inventore officia dolores eos sint repudiandae soluta sit, accusamus sequi nihil voluptatum
-                perspiciatis ut laudantium praesentium omnis nam quaerat, facilis facere! Rerum voluptatem officia dolore,
-                ullam sunt nobis! Assumenda, provident.</p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas repellendus, quasi voluptate, officiis
-                dolorem dolorum enim eius laborum vel ipsum esse? Id laboriosam doloremque praesentium dolor veniam ex quos!
-                Minus debitis mollitia quidem, dignissimos quo accusamus nemo? Non perferendis debitis saepe fugiat
-                voluptatibus dolor incidunt soluta iusto voluptatem odio. Laboriosam quam nisi ab? Doloremque sequi
-                repellendus rem officia ipsum quos deleniti, voluptatum ipsa et, labore natus, cupiditate alias
-                necessitatibus quisquam mollitia est hic eligendi nisi perspiciatis ea sunt iusto ut repellat. Consequuntur
-                sequi autem quo illo minima ipsa recusandae neque facere iure perferendis dolore incidunt optio itaque
-                pariatur, aut, enim culpa error maiores quos, minus provident fugit? Sint ea itaque ratione voluptatum
+            <p>Hello again, it seems you are still interested in reading more about me.
+                I am a computer engineer from Iran with a past theoretical programming experience.
+                Well, surely the question arises, what did I do then?
+                I have more than 12 years of experience in the production line of business,
+                which is divided into two completely different sectors.
+                The first part was the production of  clay pottery for artists with special needs
+                and the second part was the production of pet bottles from 30 ml to 5 liters.
+            </p>
+            <p>I gained a lot of experience in both fields and I enjoyed both of them.
+                However, after migrating to Germany abd because of the pandemic situation and mostly my
+                genuine interest in the world of computers, I shifted back to my original field of study to
+                try to enter this rapidly evolving and growing market by reviving my old knowledge.
+                I am constantly interested in learning new topics which helped me to become familiar
+                with the basics of web development within a year and I am eager to overcome the new challenges in my career.
             </p>
         </article>
     )
