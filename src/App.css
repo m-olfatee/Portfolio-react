@@ -193,6 +193,26 @@ html body {
   text-shadow: 1px 1px 1px #c2c2c2;
 }
 
+/* ================================================== PROJECTS ================================================== */
+#skills {
+  margin: 10rem auto;
+  color: white;
+  width: 60%;
+  text-align: center;
+}
+#skills h2 {
+  text-align: left;
+}
+#skills span {
+  display: inline-block;
+  background-color: white;
+  color: #000;
+  padding: 0.5rem 1.5rem;
+  margin: 0.5rem;
+  box-shadow: 2.5px 2.5px 1.5px #fff;
+  border-radius: 50px;
+}
+
 /* ================================================== CONTACT ================================================== */
 .contact {
   margin: 5rem;

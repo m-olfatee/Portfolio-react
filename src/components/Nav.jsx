@@ -24,6 +24,10 @@ const Nav = () => {
                             <a href="#contact">
                                 <button className="custom-btn btn-1 m-2 ms-4 me-4"><span>CONTACT</span></button></a>
                         </li>
+                        <li className="nav-item">
+                            <a href="#skills">
+                                <button className="custom-btn btn-1 m-2 ms-4 me-4"><span>SKILLS</span></button></a>
+                        </li>
                     </ul>
                 </div>
             </div>
