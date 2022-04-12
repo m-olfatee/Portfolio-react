@@ -1,24 +1,24 @@
 import React from 'react'
-import Project from './Project'
-import Jemma from "../assets/img/JEMMA-Tours.jpg"
-import Astrein from "../assets/img/Astrein-Schreinerei.png"
-import rps from "../assets/img/R-P-S.png"
-import Crypto from "../assets/img/Crypto-Tracker.png"
-import California from "../assets/img/California-Calling.png"
-import Illustrations from "../assets/img/Illustrations.png"
-import Roma from "../assets/img/Roma.png"
-import Poke from "../assets/img/Poke-Dex.png"
-import Chuck from "../assets/img/Chuck.png"
-import Fake from "../assets/img/Fake.png"
-import HH from "../assets/img/HH.png"
-import Designer from "../assets/img/Designer.png"
+// import Project from './Project'
+// import Jemma from "../assets/img/JEMMA-Tours.jpg"
+// import Astrein from "../assets/img/Astrein-Schreinerei.png"
+// import rps from "../assets/img/R-P-S.png"
+// import Crypto from "../assets/img/Crypto-Tracker.png"
+// import California from "../assets/img/California-Calling.png"
+// import Illustrations from "../assets/img/Illustrations.png"
+// import Roma from "../assets/img/Roma.png"
+// import Poke from "../assets/img/Poke-Dex.png"
+// import Chuck from "../assets/img/Chuck.png"
+// import Fake from "../assets/img/Fake.png"
+// import HH from "../assets/img/HH.png"
+// import Designer from "../assets/img/Designer.png"
 
 
 const Projects = () => {
     return (
         <article className="projects" id="projects">
             <h2>Here you can see some of my projects:</h2>
-            <section className="card-area">
+            {/* <section className="card-area">
                 <Project name="JEMMA-Tours"
                     title="For nature lovers"
                     text="Outdoor tours and activities around US!"
@@ -91,7 +91,7 @@ const Projects = () => {
                     link="https://m-olfatee.github.io/Designer-Challenge/"
                     img={Designer}
                 />
-            </section>
+            </section> */}
         </article>
     )
 }

@@ -4,7 +4,7 @@ const Skill = () => {
     return (
         <section id="skills">
             <h2>Skills</h2>
-            <div>
+            {/* <div>
                 <span>HTML5</span>
                 <span>CSS3</span>
                 <span>Javascript</span>
@@ -26,7 +26,7 @@ const Skill = () => {
                 <span>Laptop hardware repair</span>
                 <span>Mobile hardware repair</span>
 
-            </div>
+            </div> */}
 
 
 
